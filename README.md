@@ -49,5 +49,3 @@ The back-end management system includes the following modules:
 10. **Settings**: Allows administrators to configure system settings.
 
 This project is developed using Spring Boot and MyBatis and is containerized for deployment using Docker.
-
-For more information, you can explore the project's code and documentation on [GitHub](https://github.com/your-mall-project-repo).
