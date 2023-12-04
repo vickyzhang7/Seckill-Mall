@@ -4,6 +4,7 @@ The Mall Project is an e-commerce system that consists of a front-end mall syste
 
 ## Front-end Mall System
 
+
 The front-end mall system includes the following modules:
 
 1. **Homepage Portal**: This is the main landing page of the online mall.
